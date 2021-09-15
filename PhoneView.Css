@@ -22,4 +22,29 @@
             float:none;
             width: auto;
         }
+        h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+    background-image: url("ogre.jpg");
+   background-repeat: no-repeat;
+    background-size: 300px 100px;
+    background-position: left; 
+
+}
+
+p1 {
+font: italic;
+background-color: white; 
+  text-align: left;
+}
+
+p2 { 
+  background-image: url('shrek2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right; 
+}
     }
