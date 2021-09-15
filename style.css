@@ -18,15 +18,11 @@ background-color: white;
   text-align: left;
 }
 
-body { 
+p2 { 
   background-image: url('shrek2.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: right; 
 }
 
-p2 {
-font: italic
-  background-color: green;
-  text-align: right;
-}
+
