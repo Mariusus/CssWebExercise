@@ -1,8 +1,7 @@
-body {
-  background-image: url(ogre.jpg);    
- 
+body  {
+  background-image: url("ogre.jpg");
+  background-color: #cccccc;
 }
-
 h1 {
   color: white;
   text-align: center;
