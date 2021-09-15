@@ -8,3 +8,9 @@ h2 {
     background-image: url("ogre.jpg");
    background-repeat: no-repeat;
 }
+
+p1 {
+font: italic;
+background-color: white;  
+}
+
