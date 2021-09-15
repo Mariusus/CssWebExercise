@@ -1,6 +1,7 @@
 body {
   background-color: lightblue;
-     background-image: 'ogre.jpg';
+  background-image: url("ogre.png");    
+ 
 }
 
 h1 {
